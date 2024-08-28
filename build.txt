@@ -1,0 +1,6 @@
+author = Mohammed1336(MoGaming)
+version = 0.1.1.2
+displayName = Mohammed's Additions
+hideCode = true
+hideResources = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*

@@ -1,0 +1,11 @@
+Merfolk mod is a mod which changes the way you play terraria completely (for most of the game)
+This mod puts a curse on you which turns you into a merman.
+Being dry/not wet for 600 ticks/around 10 secs (depends on FPS)
+Once you play the game the dragable interface will pop up counting down form 10 secs but will first apper 11 seconds so you see all 10 seconds
+You'll spawn with 2 scrolls that are gills potions with information on them.
+
+
+Thanks to Disarray Cavities for helping with the code of the breathing UI!
+Thanks to APlayer for the jellyfish blob magic.
+
+File name is MerfolkCurse.tmod
